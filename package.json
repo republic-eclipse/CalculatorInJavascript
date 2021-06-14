@@ -1,0 +1,14 @@
+{
+  "name": "project_for_ci",
+  "version": "1.0.0",
+  "description": "simple project to demonstrate the functionality of CI",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Erdem Balli",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
