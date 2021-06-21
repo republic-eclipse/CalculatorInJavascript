@@ -8,7 +8,7 @@ function sub(a, b) {
 }
 
 
-//node exports the functions so we can use them in the test
+//node exports the functions so we can use them in the tests
 module.exports = {
     add: add,
     sub: sub,
