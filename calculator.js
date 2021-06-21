@@ -12,5 +12,5 @@ function sub(a, b) {
 module.exports = {
     add: add,
     sub: sub,
-    mul: mul,
+
 }
